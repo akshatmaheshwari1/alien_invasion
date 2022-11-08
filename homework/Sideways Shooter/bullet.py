@@ -14,7 +14,7 @@ class Bullet(Sprite):
         self.x = float(self.rect.x)
 
     def update(self):
-        self.x += 0.25
+        self.x += 5
         self.rect.x = self.x
 
     def draw_bullet(self):
