@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51252648-32fb-41d2-8eda-2f297dfdd6c7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game_stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/Sideways Shooter/alien.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/raindrops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/stars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game.py" beforeDir="false" afterPath="$PROJECT_DIR$/game.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/Sideways Shooter/bullet.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/Sideways Shooter/bullet.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/Sideways Shooter/sideways_shooter.py" beforeDir="false" afterPath="$PROJECT_DIR$/homework/Sideways Shooter/sideways_shooter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ship.py" beforeDir="false" afterPath="$PROJECT_DIR$/ship.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Alien Invasion Part 2.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
